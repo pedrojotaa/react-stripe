@@ -18,7 +18,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav>
+    <nav className="nav">
       <div className="nav-center">
         <div className="nav-header">
           <img src={logo} className="nav-logo" alt="stripe" />
